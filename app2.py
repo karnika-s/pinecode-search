@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 import nltk
 
 # Download the necessary nltk data
-nltk.download('punkt')
+nltk.download('punkt_tab')
 
 # Load environment variables
 load_dotenv()
