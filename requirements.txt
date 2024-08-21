@@ -39,3 +39,4 @@ python-dotenv
 streamlit
 langchain_experimental
 lamini
+pinecone-client
